@@ -2,7 +2,8 @@
 # Objective:
 The objective of this project is to perform keyword network analysis and word frequency analysis on a given dataset. The project aims to extract keyword data from the provided file and convert it into a weighted adjacency matrix. The following steps outline the process:
 
-Extract Keyword Data: The provided file is processed to extract keyword data for analysis.
+# Extract Keyword Data: 
+The provided file is processed to extract keyword data for analysis.
 
 Convert to Weighted Adjacency Matrix: The extracted keyword data is used to construct a weighted adjacency matrix, representing the relationships between keywords.
 
